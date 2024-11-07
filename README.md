@@ -5,23 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tripathiayushman" alt="tripathiayushman" /></a> </p>
 
-- 🔭 I’m currently working on **Generative Adversarial Network (GAN)**
+- 🌱 I’m currently learning **Tensorflow,OpenCv,Pandas,Pytorch**
 
-- 🌱 I’m currently learning **Tensorflow,OpenCv,Pandas**
+- 👯 I’m looking to collaborate on **Machine Learning Projects using Pytorch**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects using Tensorflow/Pytorch**
+- 👨‍💻 All of my projects are available at (yet to make a portfolio/resume website,once i do make one ill add it here)
 
-- 👨‍💻 All of my projects are available at [(yet to make a portfolio website)]((yet to make a portfolio website))
-
-- 📫 How to reach me **https://www.linkedin.com/in/ayushman-tripathi-882799276/**
-
-- 📄 Know about my experiences [(yet to make one)]((yet to make one))
+- 📄 Know about my experiences (yet to make a portfolio/resume website,once i do make one ill add it here)
 
 - ⚡ Fun fact **Strong coffee enthusiast ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayushman tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman tripathi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayushman-tripathi-882799276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman tripathi" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushmandgaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushmandgaf" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/merry_fish_92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="merry_fish_92" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diffmonke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diffmonke" height="30" width="40" /></a>
