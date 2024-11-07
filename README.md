@@ -17,10 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://x.com/ayushmanatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushmanatr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayushman-tripathi-882799276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman tripathi" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushmandgaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushmandgaf" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/merry_fish_92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="merry_fish_92" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diffmonke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diffmonke" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/897879761253179402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ll.ayushman.ll" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
