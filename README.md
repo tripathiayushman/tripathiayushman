@@ -95,13 +95,6 @@
   />
 </div>
 
-<h3 align="center">📊 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tripathiayushman&theme=radical" alt="Contribution Graph" />
-</p>
-
-
-
 <h3 align="center">🏆 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tripathiayushman&show_icons=true&theme=radical" alt="GitHub Stats" />
