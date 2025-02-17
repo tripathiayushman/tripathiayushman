@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayushman Tripathi</h1>
-<h3 align="center">Passionate about Web Development, Machine Learning, and Database Engineering, I aim to leverage technology to create impactful, data-driven solutions.</h3>
+<h3 align="center">Passionate about Web Development, Machine Learning, and Database Engineering, I aim to leverage technology to create impactful, data-driven solutions.</h3><br>
 
 
-
-- 🌱 I’m currently learning **Tensorflow,OpenCv,Pandas,Pytorch**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects using Pytorch**
-
-- 👨‍💻 All of my projects are available at (yet to make a portfolio/resume website,once i do make one ill add it here)
-
-- 📄 Know about my experiences (yet to make a portfolio/resume website,once i do make one ill add it here)
-
-- ⚡ Fun fact **Strong coffee enthusiast ☕**
+<h2 align="center">⚡ Fun fact: <b>Strong coffee enthusiast ☕</b></h2>
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
@@ -30,17 +21,14 @@
   <a href="https://www.leetcode.com/diffmonke" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
   </a>
-  <a href="https://discord.com/channels/@me/897879761253179402" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
-  </a>
 </p>
 
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+<!--   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  </a>
+  </a> -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -68,21 +56,21 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
+  </a> -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
+  </a> -->
 </p>
 
 
@@ -95,11 +83,12 @@
   />
 </div>
 
-<h3 align="center">🏆 GitHub Stats</h3>
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tripathiayushman&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiayushman&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
+
 
 
 
