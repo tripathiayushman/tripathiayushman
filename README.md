@@ -1,11 +1,15 @@
 <div align="center">
 
 # 💫 About Me:
-<ul style="text-align: center; list-style-type: none;">
-  <li>I am Ayushman Tripathi.</li>
-  <li>A sophomore at Vellore Institute of Technology, Chennai.</li>
-  <li>I am a Caffeine Addict.</li>
-</ul>
+<div style="text-align: justify;">
+  👋 I am Ayushman Tripathi. <br>
+  📑 A sophomore at Vellore Institute of Technology, Chennai. <br>
+  ☕ <b>I am a Caffeine Addict.</b> <br>
+  🧑🏽‍💻 <a href="https://tripathiayushman.vercel.app">Check out all my work here</a>
+</div>
+
+
+
 
 
 
