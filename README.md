@@ -1,4 +1,4 @@
-<centre>
+
 # 💫 About Me:
 I am Ayushman Tripathi.<br>A sophomore at Vellore Institute of Technology, Chennai.<br>I am a Caffeine Addict.
 
@@ -17,4 +17,4 @@ I am Ayushman Tripathi.<br>A sophomore at Vellore Institute of Technology, Chenn
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<centre>
+
