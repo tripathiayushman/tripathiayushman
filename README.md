@@ -2,10 +2,13 @@
 
 # 💫 About Me:
 <div style="text-align: justify;">
+  <ul>
   👋 I am Ayushman Tripathi. <br>
-  📑 A sophomore at Vellore Institute of Technology, Chennai. <br>
+  📑 A Pre-Final-Year at Vellore Institute of Technology, Chennai. <br>
   ☕ <b>I am a Caffeine Addict.</b> <br>
+  ⚙️ BUILDING <a href="https://accleratech.com/">AccleraTech </a> <br>
   🧑🏽‍💻 <a href="https://tripathiayushman.vercel.app">Check out all my work here</a>
+  </ul>
 </div>
 
 
